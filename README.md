@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cinthiaperez931 and i live in Valparaiso , Chile
 - 👀 I’m interested in  books, code and photograph
-- 🌱 i´m currently learning javascript and  while improve my english skills.
+- 🌱 i´m currently learning javascript and improve my english skills.
 - � I am looking to collaborate in a good company where I can improve my skills and become a better programmer.
 
 
